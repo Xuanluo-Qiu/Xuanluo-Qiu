@@ -1,3 +1,10 @@
-# Hi, I’m CCAil
+# 👋 Hi, I’m CCAil
 ***
-你好呀，我叫邱璇洛，一个水平很烂的准高中生。
+# 📕 Environment
+## <code><p>Py3 Rust  Html-Css-Js Vue</p></code>
+<br>  
+
+# 📞 Contact
+'''text
+Github @Xuanluo-Qiu
+'''
