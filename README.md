@@ -1,10 +1,13 @@
 # 👋 Hi, I’m CCAil
 ***
 # 📕 Environment
-## <code><p>Py3 Rust  Html-Css-Js Vue</p></code>
-<br>  
+## `Rust` // `C` // `Py3` // `H5`
 
 # 📞 Contact
+
 ```text
-Github @Xuanluo-Qiu
+Github   @Xuanluo-Qiu
+Twitter  @Xuanluo_Qiu
+BiliBili @邱璇洛CCAil
 ```
+***
