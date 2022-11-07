@@ -12,7 +12,7 @@
 ```
 
 # 📕 Environment
-## `Rust` // `C` // `Py3` // `H5`
+## `C#` // `C` // `Py3` // `H5`
 
 # 📞 Contact
 
