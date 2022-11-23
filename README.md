@@ -6,8 +6,8 @@
 * Python3
 * HTML, CSS
 * JavaScript
-* jQuery  
-* C
+* jQuery
+* C  
 同时，我还会一些Rust, C#, Swift, Vue2/3的基本操作
 ***
 # 联系我
