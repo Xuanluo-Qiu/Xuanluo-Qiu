@@ -7,7 +7,8 @@
 * HTML, CSS
 * JavaScript
 * jQuery  
-同时，我还会一些Rust, C, C#, Swift, Vue2/3的基本操作
+* C
+同时，我还会一些Rust, C#, Swift, Vue2/3的基本操作
 ***
 # 联系我
 * 邮箱：vioercer@outlook.com
