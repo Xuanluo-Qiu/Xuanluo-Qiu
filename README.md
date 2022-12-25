@@ -8,7 +8,8 @@
 * jQuery
 * C  
 * Rust  
-同时，我还会一些Rust, C#, Swift, Vue2/3的基本操作
+* Lua  
+同时，我还会一些 C#, Swift, Vue2/3的基本操作
 ***
 # 联系我
 * 邮箱：vioercer@outlook.com
